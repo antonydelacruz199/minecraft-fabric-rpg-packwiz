@@ -1,0 +1,13 @@
+name = "Mebahel's Creatures - Draugr Invasion"
+filename = "mebahel-creatures-draugr-1.7.0a-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "118ae17d746341eee2b9d0763ba8469e75028e09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7932416
+project-id = 1398924

@@ -1,0 +1,13 @@
+name = "Minecraft Fabric RPG - PAPUS2.0"
+author = "Antony"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ad7dbf08d4e06dae7d4f862d049854ff6b7e5eaae0fec5436f6b5a3018fdea18"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "1.21.1"

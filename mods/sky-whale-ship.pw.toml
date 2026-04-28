@@ -1,0 +1,13 @@
+name = "Sky Whale Ship"
+filename = "sky_whale_ship-fabric1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc869b3136b928ccb8d0a2f46282fda5d0decd33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7177850
+project-id = 1214459
